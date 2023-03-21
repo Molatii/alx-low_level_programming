@@ -13,8 +13,8 @@ void print_alphabet_x10(void)
 	{
 		for (x = 97; x <= 122; x++)
 		{
-			-putchar(x);
+			_putchar(x);
 		}
-		-putchar('\n');
+		_putchar('\n');
 	}
 }

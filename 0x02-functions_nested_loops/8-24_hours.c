@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * time_table -  every minute of the day
+ * jack_bauer -  every minute of the day
  * Description: ' prints time starting from 00:00 to 23:59'
  * Return: 0
  */
-void time_table(void)
+void jack_bauer(void)
 {
 	int a, b, c, d;
 
